@@ -7,8 +7,8 @@ import { astroImageTools } from 'astro-imagetools';
 
 // https://astro.build/config
 export default defineConfig({
-  base: '/Astro-boilerplate', // Set a path prefix.
-  site: 'https://magreiner.github.io/', // Use to generate your sitemap and canonical URLs in your final build.
+  base: '/', // Set a path prefix.
+  site: 'https://andi.matthiasgreiner.com/', // Use to generate your sitemap and canonical URLs in your final build.
   // Important!
   // Only official '@astrojs/*' integrations are currently supported by Astro.
   // Add 'experimental.integrations: true' to make 'astro-robots-txt' working
