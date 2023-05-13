@@ -16,7 +16,7 @@ const Hero = () => (
       description={
         <>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
-          <a className="text-magenta-600 hover:underline" href="/">
+          <a className="text-magenta-400 hover:underline" href="/">
             malesuada
           </a>{' '}
           nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
