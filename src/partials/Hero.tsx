@@ -10,13 +10,13 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hallo <GradientText>Andi</GradientText>, So einfach gehts auf einer speziellen Web-Addresse! 👋👋👋
+          Hallo <GradientText>Andi</GradientText>, So einfach gehts auf einer speziellen Web-Addresse!. Ja wenn man die Lupe findet 👋👋👋
         </>
       }
       description={
         <>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
+          <a className="text-magenta-600 hover:underline" href="/">
             malesuada
           </a>{' '}
           nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
