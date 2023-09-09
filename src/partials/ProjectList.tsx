@@ -17,9 +17,7 @@ const ProjectList = () => (
     <div className="flex flex-col gap-6">
       <Project
         name="Project 1"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
+        description="Das Lateinische habe ich grad umgeändert. 09.09.2023."
         link="/"
         img={{
           src: '/assets/images/project-web-design.png',
