@@ -15,15 +15,15 @@ const Hero = () => (
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
+          Ich schreibe hier den ersten Text, erste Zeile{' '}
           <a className="text-cyan-400 hover:underline" href="/">
             malesuada
           </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
+          Ich schreibe hier den ersten Text, zweite Zeile,{' '}
           <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
+            folgende Zeile
           </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+         und ende des Textes.
         </>
       }
       avatar={
